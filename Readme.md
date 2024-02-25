@@ -9,7 +9,7 @@
 - **Without\_kmeans.ipynb**: This file has a basic model for recommendation of articles. There are multiple models in this file. Firstly, we directly compared the articles the user read with all other articles and we recommended which are closer to the user read articles. Secondly, we are recommending articles which are closer to the user embedding.
 - **Kmeans.ipynb**: In this file K-Means model is used for the recommendation of articles.
 - **BPR.ipynb** : There are two models in this file. First one is normal BPR which was discussed in the class and the second one is our novel idea.
-- ` `**MAB.py:** We used Thompson’s sampling for the article recommendations. This file has the user interaction.
+- **MAB.py:** We used Thompson’s sampling for the article recommendations. This file has the user interaction.
 - **MAB-analysis.ipynb:** We analyzed our Thompson's sampling model using some graphs.
 - **Trending.ipynb**: This file has user interaction. This model shows trending news articles based on the time period selected by the user and the number of times the article is clicked.
 
@@ -19,7 +19,6 @@
 
 News articles will be displayed, if you like the displayed article then please enter 1, else enter 0. To exit the user interaction enter -1.
 
-.
 
 - **without\_kmeans.py**
 
